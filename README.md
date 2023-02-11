@@ -1,4 +1,5 @@
 # Gooonj: Break The Silence
+![Pink and Grey Blob Business Hip Project Report Video](https://user-images.githubusercontent.com/97554714/218268248-cfa2dcf2-2fbb-4ea9-8097-55a9edc4ffce.png)
 ## Inspiration
 1 Personal experience:
 We had always wondered why our mothers and sisters were treated differently after a few days. As we grew older, we learned about the horrible customs that pervaded our culture and how they affected the lives of impoverished and disadvantaged women. We sought a platform for providing these women with safety, security, and a healthy way of life.
@@ -14,7 +15,8 @@ we brainstormed continuously for hours to optimal solutions for removing stigma 
 2. Research and study:
 we approached concerned medical authorities regarding the problems, and symptoms regarding the menstrual health cycle and we also approached active NGOs and INGO
 3.User interfacing:
-we tried to build a UI for users in a friendly and convenient manner in both hardware and software ends
+we tried to build a UI for users in a friendly and convenient manner in both hardware and software ends![image](https://user-images.githubusercontent.com/97554714/218268667-afdb1d1d-9a30-4546-a8fe-3335530304a1.png)
+
 
 4. Prototype (hardware and software):
     a) basic hardware component implementation. 
@@ -47,3 +49,9 @@ It was really difficult for us to test different hardware components and get the
 - firebase
 - flutter
 - node.js
+## Project Gallery
+
+![Gooonj atm machine_2](https://user-images.githubusercontent.com/97554714/218268310-eab48d84-439f-408d-9c6e-709c57e385b4.png)
+![splash](https://user-images.githubusercontent.com/97554714/218268325-356c15a0-f92f-4392-b073-abf2fbf19ffb.png)![Homepage](https://user-images.githubusercontent.com/97554714/218268334-6f9cefab-580b-499a-8fe3-82e7d1e5a514.png)![Location](https://user-images.githubusercontent.com/97554714/218268596-f6cb4abc-f3b6-4411-b28b-0e3a609642c0.png)
+![FAQ](https://user-images.githubusercontent.com/97554714/218268605-3499baf2-fedd-4ef2-977d-99811364d784.png)
+
