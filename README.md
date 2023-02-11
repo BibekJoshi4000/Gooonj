@@ -55,4 +55,7 @@ It was really difficult for us to test different hardware components and get the
 <img src = "https://user-images.githubusercontent.com/97554714/218268334-6f9cefab-580b-499a-8fe3-82e7d1e5a514.png">
 <img  alt="Location" src = "https://user-images.githubusercontent.com/97554714/218268596-f6cb4abc-f3b6-4411-b28b-0e3a609642c0.png">
 <img  align="centre" alt="Location" src = "https://user-images.githubusercontent.com/97554714/218268605-3499baf2-fedd-4ef2-977d-99811364d784.png">
+<img src ="https://user-images.githubusercontent.com/97554714/218270095-d6e7ab02-e78e-43e5-bb3e-e179ed0e24db.jpeg" width ="60%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/97554714/218270096-8481c3f3-78e9-4c5d-872b-ade47c494737.jpeg" width ="60%" height = "50%">  
 </div>
+
